@@ -1,1 +1,1 @@
-# training-materials
+# Introduction to Python Automation
