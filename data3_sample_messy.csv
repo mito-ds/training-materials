@@ -1,0 +1,6 @@
+Transaction_ID,Date_as_String,Ticker_with_Substring,Transaction_Value_$,Type_of_Investment,Unhelpfully_Long_Column_Name
+1,"2023-01-01","Stock-Ticker-APPLE","$1200.00","Stock","AAPL shares purchased"
+2,"2023-01-02","Stock-Ticker-ALPHABET","$1500.00","Stock","GOOGL shares purchased"
+3,"2023-01-03","Stock-Ticker-MICROSOFT","$2000.00","Stock","MSFT shares purchased"
+4,"2023-01-04","Stock-Ticker-AMAZON","$2500.00","Stock","AMZN shares purchased"
+5,"2023-01-05","Stock-Ticker-APPLE","$1000.00","Stock","AAPL shares purchased"
